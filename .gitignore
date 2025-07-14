@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# DB files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
